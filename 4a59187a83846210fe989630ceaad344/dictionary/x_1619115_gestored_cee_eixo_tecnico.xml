@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="f3bd3d4f83402210fe989630ceaad363" label="CEE_EIXO_TECNICO" max_length="40" name="x_1619115_gestored_cee_eixo_tecnico" type="collection">
         <element label="ID_CURSO_TECNICO NUMBER(" max_length="40" name="id_curso_tecnico_number" type="integer"/>
+        <element label=" NOME_EIXO_TECNICO" max_length="300" name="nome_eixo_tecnico" type="integer"/>
     </element>
 </database>
