@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="id_fase_educacao" label="ID_FASE_EDUCACAO" language="en" table="x_1619115_gestored_cee_fase_educacao">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>id_fase_educacao</element>
+            <help/>
+            <hint/>
+            <label>ID_FASE_EDUCACAO</label>
+            <language>en</language>
+            <name>x_1619115_gestored_cee_fase_educacao</name>
+            <plural>ID_FASE_EDUCACAOs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 14:02:21</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ID_FASE_EDUCACAO</sys_name>
+            <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+            <sys_update_name>sys_documentation_x_1619115_gestored_cee_fase_educacao_id_fase_educacao_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 14:02:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
