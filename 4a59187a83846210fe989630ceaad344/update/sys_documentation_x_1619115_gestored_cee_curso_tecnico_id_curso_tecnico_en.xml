@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="id_curso_tecnico_number" label="ID_EIXO_TECNICO" language="en" table="x_1619115_gestored_cee_eixo_tecnico">
+    <sys_documentation element="id_curso_tecnico" label="ID_CURSO_TECNICO" language="en" table="x_1619115_gestored_cee_curso_tecnico">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>id_curso_tecnico_number</element>
+            <element>id_curso_tecnico</element>
             <help/>
             <hint/>
-            <label>ID_EIXO_TECNICO</label>
+            <label>ID_CURSO_TECNICO</label>
             <language>en</language>
-            <name>x_1619115_gestored_cee_eixo_tecnico</name>
-            <plural>ID_EIXO_TECNICOs</plural>
+            <name>x_1619115_gestored_cee_curso_tecnico</name>
+            <plural>ID_CURSO_TECNICOs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-03-07 13:43:04</sys_created_on>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_name>ID_EIXO_TECNICO</sys_name>
+            <sys_created_on>2025-03-07 13:56:48</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ID_CURSO_TECNICO</sys_name>
             <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
             <sys_policy/>
             <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
-            <sys_update_name>sys_documentation_x_1619115_gestored_cee_eixo_tecnico_id_curso_tecnico_number_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_1619115_gestored_cee_curso_tecnico_id_curso_tecnico_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-03-07 13:53:30</sys_updated_on>
+            <sys_updated_on>2025-03-07 13:56:48</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

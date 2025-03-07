@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="25cefd8f83402210fe989630ceaad307" label=" CEE_CURSO_TECNICO" max_length="40" name="x_1619115_gestored_cee_curso_tecnico" type="collection">
+        <element label="ID_EIXO_TECNICO" max_length="9" name="id_eixo_tecnico" reference="x_1619115_gestored_cee_eixo_tecnico" type="integer"/>
+        <element label="NOME_CURSO_TECNICO" max_length="300" name="nome_curso_tecnico" type="string"/>
+        <element label="INDI_EXPERIMENTAL" max_length="1" name="indi_experimental" type="string"/>
+        <element label="ID_CURSO_TECNICO" max_length="9" name="id_curso_tecnico" type="string"/>
+    </element>
+</database>
