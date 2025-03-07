@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="38b3bdcb83002210edab97efeeaad393" label="CEE_COORDNC_REGIONAL" max_length="40" name="x_1619115_gestored_cee_coordnc_regional" type="collection">
+        <element label="ID_COORDNC_REGIONAL" max_length="9" name="id_coordnc_regional" type="integer"/>
+        <element label="NOME_COORDNC_REGIONAL" max_length="150" name="nome_coordnc_regional" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4864758b83002210edab97efeeaad309" label="CEE_COORDNC_REGIONAL_MUNICIPIO" max_length="40" name="x_1619115_gestored_cee_coordnc_regional_municipio" type="collection">
+        <element label="ID_COORDNC_REGIONAL" max_length="9" name="id_coordnc_regional" reference="x_1619115_gestored_cee_coordnc_regional" type="integer"/>
+        <element label="CODG_MUNICIPIO" max_length="9" name="codg_municipio" type="integer"/>
+        <element label="ID_COORDNC_REGIONAL_MUNICIPIO" max_length="9" name="id_coordnc_regional_municipio" type="integer"/>
+    </element>
+</database>
