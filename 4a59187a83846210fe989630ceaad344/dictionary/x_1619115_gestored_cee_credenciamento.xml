@@ -9,14 +9,21 @@
         <element label="DATA_FIM_VIGENCIA_AUTORIZACAO" max_length="40" name="data_fim_vigencia_autorizacao" type="glide_date"/>
         <element label="NUMR_RESOLUCAO" max_length="5" name="numr_resolucao" type="integer"/>
         <element choice="1" label="INDI_NIVEL_ENSINO" max_length="1" name="indi_nivel_ensino" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="Básica" sequence="0" value="B"/>
+                <element inactive_on_update="false" label="Superior" sequence="1" value="S"/>
+            </choice>
         </element>
         <element choice="1" label="INDI_GRAU_ENSINO_SUPERIOR" max_length="1" name="indi_grau_ensino_superior" type="choice">
             <choice/>
         </element>
         <element label="NUMR_ANO_RESOLUCAO" max_length="4" name="numr_ano_resolucao" type="integer"/>
         <element choice="1" label="INDI_MODALIDADE_ENSINO" max_length="1" name="indi_modalidade_ensino" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="A distância" sequence="1" value="E"/>
+                <element inactive_on_update="false" label="Hibrida" sequence="2" value="H"/>
+                <element inactive_on_update="false" label="Presencial" sequence="0" value="P"/>
+            </choice>
         </element>
     </element>
 </database>
