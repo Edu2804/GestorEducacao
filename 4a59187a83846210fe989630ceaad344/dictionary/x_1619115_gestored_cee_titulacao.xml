@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="64e3481b83c82210edab97efeeaad3ec" label="CEE_TITULACAO" max_length="40" name="x_1619115_gestored_cee_titulacao" type="collection">
+        <element label="DESC_TITULACAO" max_length="500" name="desc_titulacao" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="INDI_GRAU_INSTRUCAO" max_length="2" name="indi_grau_instrucao" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="ID_TITULACAO" max_length="9" name="id_titulacao" type="integer"/>
+    </element>
+</database>
