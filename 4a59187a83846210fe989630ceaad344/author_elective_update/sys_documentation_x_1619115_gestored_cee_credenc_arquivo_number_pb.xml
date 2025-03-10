@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation action="DELETE" element="number" label="Number" language="pb" table="x_1619115_gestored_cee_credenc_arquivo">
+        <sys_documentation action="DELETE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>pb</language>
+            <name>x_1619115_gestored_cee_credenc_arquivo</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:35:45</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+            <sys_update_name>sys_documentation_x_1619115_gestored_cee_credenc_arquivo_number_pb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:35:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</application>
+        <file_path/>
+        <instance_id>26ff3523dba6b19438f11729139619be</instance_id>
+        <instance_name>dev221453</instance_name>
+        <name>sys_documentation_x_1619115_gestored_cee_credenc_arquivo_number_pb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Number" language="pb" table="x_1619115_gestored_cee_credenc_arquivo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>pb</language>
+            <name>x_1619115_gestored_cee_credenc_arquivo</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:35:45</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+            <sys_update_name>sys_documentation_x_1619115_gestored_cee_credenc_arquivo_number_pb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:35:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>]]></payload>
+        <payload_hash>-214895533</payload_hash>
+        <record_name>x_1619115_gestored_cee_credenc_arquivo.Number</record_name>
+        <reverted_from/>
+        <source>b5a685c483502210edab97efeeaad320</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-10 12:14:41</sys_created_on>
+        <sys_id>52b689c483502210edab97efeeaad33d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1957ffa8e270000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-10 12:14:41</sys_updated_on>
+        <type>Field Label</type>
+        <update_guid>5eb689c42c502210943efded4402e33c</update_guid>
+        <update_guid_history>5eb689c42c502210943efded4402e33c:0,72754d4470502210a265bc8ed337693e:-1542165155,fb13ce8f86402210329ea2b4c652a00e:-214895533</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-10 12:15:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_documentation">sys_documentation</sys_db_object>
+        <sys_id>24ea8ed6063e4c0ea419c84b6f8b60a4</sys_id>
+        <sys_metadata>1eb689c483502210edab97efeeaad33a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Number</sys_name>
+        <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+        <sys_scope_delete display_value="">44e2c486a1384af09cb84f53b80a5a40</sys_scope_delete>
+        <sys_update_name>sys_documentation_x_1619115_gestored_cee_credenc_arquivo_number_pb</sys_update_name>
+        <sys_update_version display_value="sys_documentation_x_1619115_gestored_cee_credenc_arquivo_number_pb">52b689c483502210edab97efeeaad33d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-10 12:15:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

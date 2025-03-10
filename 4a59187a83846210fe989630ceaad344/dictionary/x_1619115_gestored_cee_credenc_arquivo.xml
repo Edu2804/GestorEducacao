@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="f8aa358b83002210f03353d6feaad3b4" label="CEE_CREDENC_ARQUIVO" max_length="40" name="x_1619115_gestored_cee_credenc_arquivo" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="ID_CREDENC_ARQUIVO" max_length="255" name="id_credenc_arquivo" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded" label="Number" max_length="40" name="number" type="string"/>
+    <element db_object_id="a185cd4483502210edab97efeeaad34f" label="CEE_CREDENC_ARQUIVO" max_length="40" name="x_1619115_gestored_cee_credenc_arquivo" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="ID_CREDENC" max_length="40" name="id_credenc" reference="x_1619115_gestored_cee_credenciamento" type="integer"/>
         <element label="INFO_URL_ARQUIVO_AUTORIZACAO" max_length="600" name="info_url_arquivo_autorizacao" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="ID_CREDENC" max_length="40" name="id_credenc" type="integer"/>
     </element>
 </database>
