@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation action="DELETE" element="indi_curso_tecnico_s_n" label="INDI_CURSO_TECNICO (S,N)" language="pb" table="x_1619115_gestored_cee_fase_educacao">
+        <sys_documentation action="DELETE">
+            <element>indi_curso_tecnico_s_n</element>
+            <help/>
+            <hint/>
+            <label>INDI_CURSO_TECNICO (S,N)</label>
+            <language>pb</language>
+            <name>x_1619115_gestored_cee_fase_educacao</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:54:32</sys_created_on>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>INDI_CURSO_TECNICO (S,N)</sys_name>
+            <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+            <sys_update_name>sys_documentation_x_1619115_gestored_cee_fase_educacao_indi_curso_tecnico_s_n_pb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:54:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</application>
+        <file_path/>
+        <instance_id>26ff3523dba6b19438f11729139619be</instance_id>
+        <instance_name>dev221453</instance_name>
+        <name>sys_documentation_x_1619115_gestored_cee_fase_educacao_indi_curso_tecnico_s_n_pb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="indi_curso_tecnico_s_n" label="INDI_CURSO_TECNICO (S,N)" language="pb" table="x_1619115_gestored_cee_fase_educacao">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>indi_curso_tecnico_s_n</element>
+            <help/>
+            <hint/>
+            <label>INDI_CURSO_TECNICO (S,N)</label>
+            <language>pb</language>
+            <name>x_1619115_gestored_cee_fase_educacao</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:54:32</sys_created_on>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>INDI_CURSO_TECNICO (S,N)</sys_name>
+            <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+            <sys_update_name>sys_documentation_x_1619115_gestored_cee_fase_educacao_indi_curso_tecnico_s_n_pb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:54:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>]]></payload>
+        <payload_hash>-140261135</payload_hash>
+        <record_name>CEE_FASE_EDUCACAO.INDI_CURSO_TECNICO (S,N)</record_name>
+        <reverted_from/>
+        <source>def28d4083502210edab97efeeaad3ef</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-10 11:58:36</sys_created_on>
+        <sys_id>7a03c18083502210edab97efeeaad348</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1957febd4390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-10 11:58:36</sys_updated_on>
+        <type>Field Label</type>
+        <update_guid>7603c180905022102604ba27b896d148</update_guid>
+        <update_guid_history>7603c180905022102604ba27b896d148:0,0bce340c3a102210e8dcce581c2cd37d:-1370357327,8c23ce8ff34022103f544c934c8e7253:-140261135</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-10 11:59:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_documentation">sys_documentation</sys_db_object>
+        <sys_id>6ce9ab26810946f2b3e9ee40b62efbc9</sys_id>
+        <sys_metadata>3603c18083502210edab97efeeaad346</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INDI_CURSO_TECNICO (S,N)</sys_name>
+        <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+        <sys_scope_delete display_value="">44e2c486a1384af09cb84f53b80a5a40</sys_scope_delete>
+        <sys_update_name>sys_documentation_x_1619115_gestored_cee_fase_educacao_indi_curso_tecnico_s_n_pb</sys_update_name>
+        <sys_update_version display_value="sys_documentation_x_1619115_gestored_cee_fase_educacao_indi_curso_tecnico_s_n_pb">7a03c18083502210edab97efeeaad348</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-10 11:59:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
