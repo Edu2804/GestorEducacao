@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c05c784883102210fe989630ceaad3bf" label="CEE_VISITA_TECNICA" max_length="40" name="x_1619115_gestored_cee_visita_tecnica" type="collection">
+        <element label="NUMR_PROCESSO_SEI" max_length="15" name="numr_processo_sei" type="integer"/>
+        <element label="ID_ESPECIALISTA_TECNICO" max_length="9" name="id_especialista_tecnico" reference="x_1619115_gestored_cee_especialista_tecnico" type="integer"/>
+        <element label="INFO_URL_RELATORIO" max_length="250" name="info_url_relatorio" type="string"/>
+        <element label="NUMR_ANO_PORTARIA" max_length="4" name="numr_ano_portaria" type="integer"/>
+        <element label="ID_INSTITUICAO_ENSINO" max_length="9" name="id_instituicao_ensino" reference="x_1619115_gestored_cee_instituicao_ensino" type="integer"/>
+        <element label="DESC_OBSERVACAO" max_length="500" name="desc_observacao" type="string"/>
+        <element label="DATA_FIM_VISITA" max_length="6" name="data_fim_visita" type="glide_date"/>
+        <element label="DATA_INICIO_VISITA" max_length="40" name="data_inicio_visita" type="glide_date"/>
+        <element label="DESC_CURSO_VERIFICADO" max_length="500" name="desc_curso_verificado" type="string"/>
+    </element>
+</database>
