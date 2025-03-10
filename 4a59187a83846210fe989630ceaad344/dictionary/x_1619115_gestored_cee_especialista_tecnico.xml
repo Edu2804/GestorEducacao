@@ -6,6 +6,5 @@
         <element label="ID_PESSOA" max_length="10" name="id_pessoa" type="integer"/>
         <element label="INFO_URL_CURRICULO_LATTES" max_length="250" name="info_url_curriculo_lattes" type="string"/>
         <element label="DESC_OBSERVACAO" max_length="500" name="desc_observacao" type="string"/>
-        <element label="ID_ESPECIALISTA_TECNICO" max_length="9" name="id_especialista_tecnico" type="integer"/>
     </element>
 </database>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="0764481b83c82210edab97efeeaad366" label="CEE_TITULACAO_ESPECIALISTA" max_length="40" name="x_1619115_gestored_cee_titulacao_especialista" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="ID_TITULACAO_ESPECIALISTA" max_length="9" name="id_titulacao_especialista" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="ID_TITULACAO" max_length="9" name="id_titulacao" reference="x_1619115_gestored_cee_titulacao" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="ID_ESPECIALISTA_TECNICO" max_length="9" name="id_especialista_tecnico" reference="x_1619115_gestored_cee_especialista_tecnico" type="integer"/>
     </element>
