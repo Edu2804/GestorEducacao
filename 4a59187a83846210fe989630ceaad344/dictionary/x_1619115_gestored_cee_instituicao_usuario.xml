@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="7eabb2c783842210fe989630ceaad328" label=" CEE_INSTITUICAO_USUARIO" max_length="40" name="x_1619115_gestored_cee_instituicao_usuario" type="collection">
-        <element label="ID_INSTITUICAO_ENSINO" max_length="9" name="id_instituicao_ensino" reference="x_1619115_gestored_cee_instituicao_ensino" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="ID_INSTITUICAO_ENSINO" max_length="9" name="id_instituicao_ensino" reference="x_1619115_gestored_cee_instituicao_ensino" type="integer"/>
         <element label="NUMR_CPF_USUARIO" max_length="11" name="numr_cpf_usuario" type="string"/>
-        <element label="ID_INSTITUICAO_USUARIO" max_length="9" name="id_instituicao_usuario" type="integer"/>
     </element>
 </database>
