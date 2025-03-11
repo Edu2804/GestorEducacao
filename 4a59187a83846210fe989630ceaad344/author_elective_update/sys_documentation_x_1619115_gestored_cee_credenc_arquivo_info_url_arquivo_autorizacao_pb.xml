@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation action="DELETE" element="info_url_arquivo_autorizacao" label="INFO_URL_ARQUIVO_AUTORIZACAO" language="pb" table="x_1619115_gestored_cee_credenc_arquivo">
+        <sys_documentation action="DELETE">
+            <element>info_url_arquivo_autorizacao</element>
+            <help/>
+            <hint/>
+            <label>INFO_URL_ARQUIVO_AUTORIZACAO</label>
+            <language>pb</language>
+            <name>x_1619115_gestored_cee_credenc_arquivo</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:35:44</sys_created_on>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>INFO_URL_ARQUIVO_AUTORIZACAO</sys_name>
+            <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+            <sys_update_name>sys_documentation_x_1619115_gestored_cee_credenc_arquivo_info_url_arquivo_autorizacao_pb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:35:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</application>
+        <file_path/>
+        <instance_id>26ff3523dba6b19438f11729139619be</instance_id>
+        <instance_name>dev221453</instance_name>
+        <name>sys_documentation_x_1619115_gestored_cee_credenc_arquivo_info_url_arquivo_autorizacao_pb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="info_url_arquivo_autorizacao" label="INFO_URL_ARQUIVO_AUTORIZACAO" language="pb" table="x_1619115_gestored_cee_credenc_arquivo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>info_url_arquivo_autorizacao</element>
+            <help/>
+            <hint/>
+            <label>INFO_URL_ARQUIVO_AUTORIZACAO</label>
+            <language>pb</language>
+            <name>x_1619115_gestored_cee_credenc_arquivo</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:35:44</sys_created_on>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>INFO_URL_ARQUIVO_AUTORIZACAO</sys_name>
+            <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+            <sys_update_name>sys_documentation_x_1619115_gestored_cee_credenc_arquivo_info_url_arquivo_autorizacao_pb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:35:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>]]></payload>
+        <payload_hash>-1147671189</payload_hash>
+        <record_name>x_1619115_gestored_cee_credenc_arquivo.INFO_URL_ARQUIVO_AUTORIZACAO</record_name>
+        <reverted_from/>
+        <source>b5a685c483502210edab97efeeaad320</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-10 12:14:41</sys_created_on>
+        <sys_id>1eb689c483502210edab97efeeaad328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1957ffa8dc20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-10 12:14:41</sys_updated_on>
+        <type>Field Label</type>
+        <update_guid>1ab689c479502210a42a7e7d7be12028</update_guid>
+        <update_guid_history>1ab689c479502210a42a7e7d7be12028:0,36754d44fd5022102955d18e4dcd2f42:1635908469,ff13ce8fd3402210b6d3ca186667c804:-1147671189</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-10 12:15:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_documentation">sys_documentation</sys_db_object>
+        <sys_id>d4fe6269cbe94e4aa3e7b395cf7753a4</sys_id>
+        <sys_metadata>d6b689c483502210edab97efeeaad326</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INFO_URL_ARQUIVO_AUTORIZACAO</sys_name>
+        <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+        <sys_scope_delete display_value="">44e2c486a1384af09cb84f53b80a5a40</sys_scope_delete>
+        <sys_update_name>sys_documentation_x_1619115_gestored_cee_credenc_arquivo_info_url_arquivo_autorizacao_pb</sys_update_name>
+        <sys_update_version display_value="sys_documentation_x_1619115_gestored_cee_credenc_arquivo_info_url_arquivo_autorizacao_pb">1eb689c483502210edab97efeeaad328</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-10 12:15:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

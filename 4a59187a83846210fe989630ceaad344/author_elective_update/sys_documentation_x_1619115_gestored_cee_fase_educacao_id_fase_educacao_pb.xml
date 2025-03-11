@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation action="DELETE" element="id_fase_educacao" label="ID_FASE_EDUCACAO" language="pb" table="x_1619115_gestored_cee_fase_educacao">
+        <sys_documentation action="DELETE">
+            <element>id_fase_educacao</element>
+            <help/>
+            <hint/>
+            <label>ID_FASE_EDUCACAO</label>
+            <language>pb</language>
+            <name>x_1619115_gestored_cee_fase_educacao</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:54:32</sys_created_on>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>ID_FASE_EDUCACAO</sys_name>
+            <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+            <sys_update_name>sys_documentation_x_1619115_gestored_cee_fase_educacao_id_fase_educacao_pb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:54:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</application>
+        <file_path/>
+        <instance_id>26ff3523dba6b19438f11729139619be</instance_id>
+        <instance_name>dev221453</instance_name>
+        <name>sys_documentation_x_1619115_gestored_cee_fase_educacao_id_fase_educacao_pb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="id_fase_educacao" label="ID_FASE_EDUCACAO" language="pb" table="x_1619115_gestored_cee_fase_educacao">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>id_fase_educacao</element>
+            <help/>
+            <hint/>
+            <label>ID_FASE_EDUCACAO</label>
+            <language>pb</language>
+            <name>x_1619115_gestored_cee_fase_educacao</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:54:32</sys_created_on>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>ID_FASE_EDUCACAO</sys_name>
+            <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+            <sys_update_name>sys_documentation_x_1619115_gestored_cee_fase_educacao_id_fase_educacao_pb</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:54:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>]]></payload>
+        <payload_hash>-225541487</payload_hash>
+        <record_name>CEE_FASE_EDUCACAO.ID_FASE_EDUCACAO</record_name>
+        <reverted_from/>
+        <source>def28d4083502210edab97efeeaad3ef</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-10 11:58:36</sys_created_on>
+        <sys_id>fa03c18083502210edab97efeeaad344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1957febd4090000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-10 11:58:36</sys_updated_on>
+        <type>Field Label</type>
+        <update_guid>f603c180bd50221028606717bb563144</update_guid>
+        <update_guid_history>f603c180bd50221028606717bb563144:0,3e9ff44c7d102210ddcfcea31a3d49c4:-1478444079,4823ce8f5440221029ac6a08e2f6c343:-225541487</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-10 11:59:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_documentation">sys_documentation</sys_db_object>
+        <sys_id>4ba36fb8e8c84f80b634467a9808d900</sys_id>
+        <sys_metadata>b603c18083502210edab97efeeaad342</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ID_FASE_EDUCACAO</sys_name>
+        <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+        <sys_scope_delete display_value="">44e2c486a1384af09cb84f53b80a5a40</sys_scope_delete>
+        <sys_update_name>sys_documentation_x_1619115_gestored_cee_fase_educacao_id_fase_educacao_pb</sys_update_name>
+        <sys_update_version display_value="sys_documentation_x_1619115_gestored_cee_fase_educacao_id_fase_educacao_pb">fa03c18083502210edab97efeeaad344</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-10 11:59:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

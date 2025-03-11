@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-07 13:04:57</sys_created_on>
+        <sys_id>2575b18f83002210edab97efeeaad3ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1619115_gestored_cee_coordnc_regional_municipio.x_1619115_gestored.cee_coordnc_regional_municipio_user</sys_name>
+        <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+        <sys_security_acl display_value="x_1619115_gestored_cee_coordnc_regional_municipio">e975b18f83002210edab97efeeaad3a9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2575b18f83002210edab97efeeaad3ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-07 13:04:57</sys_updated_on>
+        <sys_user_role display_value="x_1619115_gestored.cee_coordnc_regional_municipio_user" name="x_1619115_gestored.cee_coordnc_regional_municipio_user">c575f90f83002210edab97efeeaad342</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

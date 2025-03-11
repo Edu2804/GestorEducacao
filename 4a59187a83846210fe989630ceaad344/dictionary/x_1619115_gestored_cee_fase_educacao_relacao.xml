@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0767014883502210edab97efeeaad317" label="CEE_FASE_EDUCACAO_RELACAO" max_length="40" name="x_1619115_gestored_cee_fase_educacao_relacao" type="collection">
+        <element label="ID_FASE_EDUCACAO" max_length="40" name="id_fase_educacao" reference="x_1619115_gestored_cee_fase_educacao" type="integer"/>
+        <element label="ID_CREDENC" max_length="40" name="id_credenc" reference="x_1619115_gestored_cee_credenciamento" type="integer"/>
+    </element>
+</database>

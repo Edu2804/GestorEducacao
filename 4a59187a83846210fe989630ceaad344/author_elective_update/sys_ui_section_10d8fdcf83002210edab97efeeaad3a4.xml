@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="10d8fdcf83002210edab97efeeaad3a4" sys_domain="global" table="x_1619115_gestored_cee_credenciamento" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>id_credenc</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:22</sys_created_on>
+            <sys_id>47bb318783402210edab97efeeaad30c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>indi_nivel_ensino</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:22</sys_created_on>
+            <sys_id>4fbb318783402210edab97efeeaad315</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>indi_modalidade_ensino</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:22</sys_created_on>
+            <sys_id>4fbb318783402210edab97efeeaad31d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>indi_grau_ensino_superior</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:22</sys_created_on>
+            <sys_id>17bb318783402210edab97efeeaad332</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>numr_processo_sei</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:22</sys_created_on>
+            <sys_id>57bb318783402210edab97efeeaad33a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>numr_parecer</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>d7bb318783402210edab97efeeaad342</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>numr_ano_parecer</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>53bb318783402210edab97efeeaad357</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>numr_resolucao</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>57bb318783402210edab97efeeaad35f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>numr_ano_resolucao</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>9bbb318783402210edab97efeeaad367</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_fim_vigencia_autorizacao</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>23bb318783402210edab97efeeaad370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>desc_curso</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>e7bb318783402210edab97efeeaad378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>info_observacao</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>23bb318783402210edab97efeeaad381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1619115_gestored_cee_credenciamento</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:19:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10d8fdcf83002210edab97efeeaad3a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1619115_gestored_cee_credenciamento</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+            <sys_update_name>sys_ui_section_10d8fdcf83002210edab97efeeaad3a4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:19:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</application>
+        <file_path/>
+        <instance_id>26ff3523dba6b19438f11729139619be</instance_id>
+        <instance_name>dev221453</instance_name>
+        <name>sys_ui_section_10d8fdcf83002210edab97efeeaad3a4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="10d8fdcf83002210edab97efeeaad3a4" sys_domain="global" table="x_1619115_gestored_cee_credenciamento" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>id_credenc</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:22</sys_created_on>
+            <sys_id>47bb318783402210edab97efeeaad30c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>indi_nivel_ensino</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:22</sys_created_on>
+            <sys_id>4fbb318783402210edab97efeeaad315</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>indi_modalidade_ensino</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:22</sys_created_on>
+            <sys_id>4fbb318783402210edab97efeeaad31d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>indi_grau_ensino_superior</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:22</sys_created_on>
+            <sys_id>17bb318783402210edab97efeeaad332</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>numr_processo_sei</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:22</sys_created_on>
+            <sys_id>57bb318783402210edab97efeeaad33a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>numr_parecer</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>d7bb318783402210edab97efeeaad342</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>numr_ano_parecer</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>53bb318783402210edab97efeeaad357</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>numr_resolucao</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>57bb318783402210edab97efeeaad35f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>numr_ano_resolucao</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>9bbb318783402210edab97efeeaad367</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_fim_vigencia_autorizacao</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>23bb318783402210edab97efeeaad370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>desc_curso</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>e7bb318783402210edab97efeeaad378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>info_observacao</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:32:23</sys_created_on>
+            <sys_id>23bb318783402210edab97efeeaad381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1619115_gestored_cee_credenciamento" sys_domain="global" view="Default view">10d8fdcf83002210edab97efeeaad3a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:32:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1619115_gestored_cee_credenciamento</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 13:19:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10d8fdcf83002210edab97efeeaad3a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1619115_gestored_cee_credenciamento</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+            <sys_update_name>sys_ui_section_10d8fdcf83002210edab97efeeaad3a4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 13:19:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>]]></payload>
+        <payload_hash>-280339793</payload_hash>
+        <record_name>x_1619115_gestored_cee_credenciamento</record_name>
+        <reverted_from/>
+        <source>def28d4083502210edab97efeeaad3ef</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-10 11:58:47</sys_created_on>
+        <sys_id>a513c58083502210edab97efeeaad341</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1957febff0e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-10 11:58:47</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>a113c580e6502210d7db6a344fea1a41</update_guid>
+        <update_guid_history>a113c580e6502210d7db6a344fea1a41:0,04a08d8c7f10221094d93a5c4fa24514:830544309,6fbb3187664022101b555f5076fb7782:1295711267,e3bb31875c40221099753353c6e9e07a:-27792070,ebbb3187584022100ca039a7a9d02971:891182998,27bb31875740221011e9641175e78069:1164780136,9fbb3187d9402210fcb0076f2ba0ac60:178710878,5bbb31879e4022101cde160b7531c958:1158848362,9fbb3187d24022102d589f3b30bdb243:433390439,dbbb31877e4022101d15e0369445983b:602157068,5bbb318751402210991473d81c6cc633:2095160104,43bb31876b40221026d77c3ec0c99d1f:2080404735,03bb3187a24022100ef4525308046a17:-785394054,83bb3187664022106693e803d5a09d0e:470196576,1cd8b5835a4022102cb16179198cf052:-2127790081</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-10 11:59:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>3822c6caf9e44c1e9be47b26205bbd71</sys_id>
+        <sys_metadata>10d8fdcf83002210edab97efeeaad3a4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1619115_gestored_cee_credenciamento</sys_name>
+        <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+        <sys_parent display_value="CEE_CREDENCIAMENTO">4eb041cc83102210edab97efeeaad3da</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+        <sys_scope_delete display_value="">44e2c486a1384af09cb84f53b80a5a40</sys_scope_delete>
+        <sys_update_name>sys_ui_section_10d8fdcf83002210edab97efeeaad3a4</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_10d8fdcf83002210edab97efeeaad3a4">a513c58083502210edab97efeeaad341</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-10 11:59:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
