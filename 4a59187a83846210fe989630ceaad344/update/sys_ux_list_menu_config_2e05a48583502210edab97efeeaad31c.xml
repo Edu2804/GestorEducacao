@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Menu Geral com todos os itens</description>
+        <name>Menu Geral</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-13 12:21:47</sys_created_on>
+        <sys_id>2e05a48583502210edab97efeeaad31c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Menu Geral</sys_name>
+        <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_2e05a48583502210edab97efeeaad31c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-13 12:21:47</sys_updated_on>
+    </sys_ux_list_menu_config>
+</record_update>
