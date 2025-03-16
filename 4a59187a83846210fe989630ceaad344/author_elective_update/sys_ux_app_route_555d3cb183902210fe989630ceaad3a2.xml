@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="GestorEducacional">dda9d4c583102210edab97efeeaad398</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Cursos técnicos</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>cursos-t-cnicos</route_type>
+        <screen_type display_value="Cursos técnicos">855db87183902210fe989630ceaad303</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-15 22:03:00</sys_created_on>
+        <sys_id>555d3cb183902210fe989630ceaad3a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cursos técnicos</sys_name>
+        <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+        <sys_update_name>sys_ux_app_route_555d3cb183902210fe989630ceaad3a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-15 22:03:00</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=555d3cb183902210fe989630ceaad3a2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</application>
+        <file_path/>
+        <instance_id>3116dfd91b89865077c7cb7b234bcbcf</instance_id>
+        <instance_name>dev244781</instance_name>
+        <name>sys_ux_app_route_555d3cb183902210fe989630ceaad3a2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="GestorEducacional">dda9d4c583102210edab97efeeaad398</app_config><description/><extension_point/><fields/><icon/><name>Cursos técnicos</name><optional_parameters/><order>0</order><parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent><parent_macroponent_composition_element_id/><route_type>cursos-t-cnicos</route_type><screen_type display_value="Cursos técnicos">855db87183902210fe989630ceaad303</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-15 22:03:00</sys_created_on><sys_id>555d3cb183902210fe989630ceaad3a2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cursos técnicos</sys_name><sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package><sys_policy/><sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope><sys_update_name>sys_ux_app_route_555d3cb183902210fe989630ceaad3a2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-15 22:03:00</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=555d3cb183902210fe989630ceaad3a2"/></record_update>]]></payload>
+        <payload_hash>1692621522</payload_hash>
+        <record_name>Cursos técnicos</record_name>
+        <reverted_from/>
+        <source>64aa1c3a83846210fe989630ceaad33d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-15 22:03:00</sys_created_on>
+        <sys_id>515d3cb183902210fe989630ceaad3a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1959bd4f9240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-15 22:03:00</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>555d3cb141902210b21583db88d1f7a4</update_guid>
+        <update_guid_history>555d3cb141902210b21583db88d1f7a4:1692621522</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-16 20:02:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>90105be642224bd594235cb5c8bf2e71</sys_id>
+        <sys_metadata>555d3cb183902210fe989630ceaad3a2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cursos técnicos</sys_name>
+        <sys_package display_value="GestorEducacao" source="x_1619115_gestored">4a59187a83846210fe989630ceaad344</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GestorEducacao">4a59187a83846210fe989630ceaad344</sys_scope>
+        <sys_scope_delete display_value="">44e2c486a1384af09cb84f53b80a5a40</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_555d3cb183902210fe989630ceaad3a2</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_555d3cb183902210fe989630ceaad3a2">515d3cb183902210fe989630ceaad3a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-16 20:02:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
